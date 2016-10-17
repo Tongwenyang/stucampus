@@ -15,3 +15,4 @@ xlwt==1.0.0
 arrow==0.7.0
 login-szu==1.0.2
 xlrd==0.9.4
+django == 1.9.3

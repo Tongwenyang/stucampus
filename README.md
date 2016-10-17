@@ -63,6 +63,7 @@ python manage.py runserver
 ```
 git checkout -b newBrand#新建分支并切换到该分支
 git pull origin newBrand#将newBrand的代码pull下来
+wheather here change something ,so we can compare is?
 ```
 
 
